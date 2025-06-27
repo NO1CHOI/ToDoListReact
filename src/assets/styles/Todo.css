@@ -1,0 +1,10 @@
+main {
+    background-color: #fff;
+    width: 350px;
+    border: 1px solid #333;
+    border-radius: 5px;
+    padding:10px 15px;
+    margin: 20px auto;
+}
+main input {}
+main button {float: right;}
